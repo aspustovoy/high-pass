@@ -1,0 +1,5 @@
+<svg viewBox="0 0 18 18" id="x-burger" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="9" cy="9" r="9" />
+  <path d="M5.586 4.95l7.637 7.636-.637.637L4.95 5.586z" fill="white" />
+  <path d="M5.032 12.587L12.67 4.95l.636.637-7.636 7.637z" fill="white" />
+</svg>
